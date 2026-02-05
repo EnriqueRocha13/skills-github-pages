@@ -1,37 +1,53 @@
-SkillVerse: AI-Powered Career Navigator 🚀
-Winner of the IBM & UTEL University Hackathon Recognition
+🛠️ Technical Skills & Certifications
+Full-Stack Developer | IBM Certified | QA Tester
 
-SkillVerse is a responsive web application designed to bridge the gap between students and the tech industry. It uses geolocation to provide real-time data on the most demanded technologies in the user's specific area, helping them navigate their career path with data-driven insights.
+This repository serves as a centralized hub for my professional skill set, technical certifications, and the core technologies I use to build scalable, high-quality web applications.
 
-🏆 Key Achievements
-IBM Recognition: Awarded for innovation, creative use of technology, and professional execution.
+🏆 Key Certifications
+Full-Stack Web Developer (Outstanding Performance): Issued by Utel Universidad & IBM.
 
-Problem Solving: Successfully implemented a geolocation-based filtering system to match local job market demands.
+Focus: CRUD applications, responsive design, and enterprise-grade frontend architecture.
 
-🛠 Tech Stack
-Frontend: React.js, JavaScript (ES6+).
+Verify Certification
 
-Styling: CSS3 / Bootstrap (Mobile-First & Fully Responsive).
+SQL Certification: Specialized in relational database management and data persistence.
 
-✨ Key Features
-Smart Geolocation: Automatically detects the student's location to provide tailored tech recommendations.
+QA & Testing Portfolio: Professional experience in manual testing and UI/UX auditing.
 
-Dynamic Tech Insights: Displays a curated list of high-demand technologies (React, Node.js, Python, etc.) based on regional market trends.
+💻 Tech Stack
+Frontend Development
+Core: React.js, TypeScript, JavaScript (ES6+), HTML5, CSS3.
 
-Responsive UI/UX: Optimized for a seamless experience across desktop, tablets, and mobile devices.
+3D & Interactive: Three.js, WebGL.
 
-Career Path Guidance: Direct links to learning resources or job market descriptions.
+Styling: Tailwind CSS, Bootstrap, Shadcn/UI.
 
-🚀 Installation & Setup
-Clone the repository:
+Backend & Databases
+Server-side: Node.js.
 
-Bash
-git clone https://github.com/EnriqueRocha13/skillverse.git
-Install dependencies:
+BaaS & DB: Supabase, PostgreSQL, SQL.
 
-Bash
-npm install
-Run the development server:
+Logic: RESTful APIs, State Management.
 
-Bash
-npm start
+Tools & DevOps
+Version Control: Git & GitHub.
+
+Deployment: Vercel, Netlify, GitHub Pages.
+
+Testing: Manual Testing, Bug Reporting, UI/UX Audits.
+
+📈 Current Learning Path
+I am currently expanding my expertise in:
+
+Advanced DevOps: Automating workflows and CI/CD pipelines.
+
+Advanced SQL: Complex queries and database optimization via TripleTen.
+
+AI Integration: Implementing LLMs and Vercel AI SDK for smart applications.
+
+👨‍💻 Connect with Me
+Upwork Profile: (https://www.upwork.com/freelancers/~01e521da7ca4550bab)
+
+LinkedIn: enrique-domínguez13
+
+3D Portfolio: enriquerocha13.github.io/3d-portfolio
